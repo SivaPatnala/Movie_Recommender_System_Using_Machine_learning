@@ -1,0 +1,15 @@
+streamlit~=1.27.2
+pandas
+#loacl file
+-e .
+
+pip~=23.3.1
+attrs~=23.1.0
+wheel~=0.41.2
+Pillow~=10.1.0
+tornado~=6.3.3
+Jinja2~=3.1.2
+setuptools~=68.2.2
+packaging~=23.2
+zipp~=3.17.0
+requests~=2.31.0
